@@ -1,0 +1,10 @@
+# client
+client/node_modules
+
+# server
+server/node_modules
+server/config/oAuth.config.js
+server/quickstart.js
+
+npm-debug.log
+quickstart.html
